@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">quz</string>
+    <string name="question1">Constructure name is same as class name</string>
+    <string name="text">true_Button</string>
+    <string name="truetext">True</string>
+    <string name="falsetext">False</string>
+    <string name="question2">Ty and catch block is must in java </string>
+    <string name="question3">Intrface has full mplement Class </string>
+    <string name="question4">By default int variable have grabage value</string>
+    <string name="question5">JVM Java virtual Mechine</string>
+    <string name="correct_toast">Ture</string>
+    <string name="incorrect_toast">Flase</string>
+
+</resources>
